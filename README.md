@@ -74,13 +74,16 @@ python src/extract_ud.py \
 
 This produces a CSV with one row per singular/plural noun, including the
 full sentence and the noun's position — everything Week 2 needs to
-extract hidden states.
+extract hidden states. and also the balance step
 
 ## Status
 
-🚧 **Week 1 in progress:** data extraction pipeline built and tested on
+🚧 **Week 1 done:** data extraction pipeline built and tested on
 English UD-EWT. Next: extend to all 6 languages, then Week 2 (hidden
 state extraction and baseline probes).
+
+🚧 **Week 2 In progress:** 
+data pipeline complete
 
 ## References (to read / cite)
 
