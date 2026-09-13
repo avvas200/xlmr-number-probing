@@ -20,3 +20,4 @@ results/hidden_states/
 # OS
 .DS_Store
 Thumbs.db
+output.txt
